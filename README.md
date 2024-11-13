@@ -7,7 +7,9 @@
 
   https://gallery.appinventor.mit.edu/?galleryid=cc4e9f99-34d1-4137-aee7-1840c6c164c4
   <a href="https://gallery.appinventor.mit.edu/?galleryid=cc4e9f99-34d1-4137-aee7-1840c6c164c4">
-    <img href="![image](https://github.com/user-attachments/assets/3b75dfda-7761-423e-992f-00a4d3e7bc24)" style="height:100px">
+    <div style="width:100px">
+      ![image](https://github.com/user-attachments/assets/3b75dfda-7761-423e-992f-00a4d3e7bc24)
+    </div>
   </a>
 
 </div>
