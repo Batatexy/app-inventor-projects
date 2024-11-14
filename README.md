@@ -1,4 +1,4 @@
-<div style="display:flex; text-align:center;">
+<div style="text-align:center;">
 
   <a href="https://gallery.appinventor.mit.edu/?galleryid=cc4e9f99-34d1-4137-aee7-1840c6c164c4" style="width:100%;">
     Calculadora
