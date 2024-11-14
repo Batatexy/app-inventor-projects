@@ -2,11 +2,11 @@
 
 <div style="display: flex; width:100%;">
 
-  <a href="https://gallery.appinventor.mit.edu/?galleryid=cc4e9f99-34d1-4137-aee7-1840c6c164c4" style="width:25%;">
+  <a href="https://gallery.appinventor.mit.edu/?galleryid=cc4e9f99-34d1-4137-aee7-1840c6c164c4" style="margin-right:25%;">
     Calculadora
   </a>
 
-  <a href="https://gallery.appinventor.mit.edu/?galleryid=2f18905e-a16c-4685-9d51-44ddfa60a61d" style="width:25%;">
+  <a href="https://gallery.appinventor.mit.edu/?galleryid=2f18905e-a16c-4685-9d51-44ddfa60a61d" style="margin-right:25%;">
     Calculadora IMC
   </a>
 
